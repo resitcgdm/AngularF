@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,700;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@600&display=swap');
+.ul-nav{
+    font-family:Caveat ;
+    font-size: 24px;
+}
+*{
+    font-family:Caveat;
+    margin: 0;
+    padding: 0;
+}
+.navbar-border-line {
+    border-bottom: 1px solid gray;
+    box-sizing: border-box;
+ 
+
+
+}
+
+nav .form-control {
+    background-color: inherit;
+    border: none;
+}
+
+.form-control:focus {
+    color: #212529;
+    background-color: inherit;
+    border-color: unset;
+    box-shadow: none;
+}
+
+.btn:focus {
+    box-shadow: none;
+}
+.navbar-box-shadow{
+    box-shadow:inset 0px 0px 20px 4px lightgray;
+}
+.google-btn{
+    box-shadow:inset 0px 0px 20px 4px lightgray;
+}
+.facebook-btn{
+    box-shadow:inset 0px 0px 20px 4px lightgray;
+}
+.google-btn:hover{
+    box-shadow:inset 0px 0px 20px 4px rgb(244, 162, 97,0.5);
+}
+.facebook-btn:hover{
+    box-shadow:inset 0px 0px 20px 4px rgb(244, 162, 97,0.5);
+}
+.h-welcome{
+    font-family: 'Stick No Bills', sans-serif;
+
+}
